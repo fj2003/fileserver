@@ -10,6 +10,8 @@
 # PyCharm #
 .idea
 
+# venv/ #
+venv/*.*
 
 
 
