@@ -1,0 +1,18 @@
+*.class
+*.log
+
+# Package Files #
+*.jar
+*.ear
+*.pyc
+*.map
+
+# PyCharm #
+.idea
+
+# venv files #
+./venv/*.*
+
+
+
+
